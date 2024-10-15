@@ -9,4 +9,4 @@ This is the main repository of my Personal Libraries. To get the "Mathex" librar
 7. Click Apply, and then Ok.
 
 DISCLAIMER
--To import the "Mathex" library in your project type "import ExLibs.Mathex;" or "import ExLibs;"
+-To import the "Mathex" library in your project type "import ExLibs.Mathex;"
