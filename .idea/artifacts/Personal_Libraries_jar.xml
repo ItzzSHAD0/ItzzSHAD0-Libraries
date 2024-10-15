@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Personal Libraries:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Personal_Libraries_jar</output-path>
+    <root id="archive" name="Personal Libraries.jar">
+      <element id="module-output" name="Personal Libraries" />
+    </root>
+  </artifact>
+</component>
